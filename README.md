@@ -32,4 +32,4 @@ You can right click the sign below the start button to toggle the mode between `
 [Rough Explanation Video](https://youtu.be/jlA-jW7VGqw)  
 [Loadout Explanation](https://youtu.be/uTn9LwB5WAE)  
 
-Contact me on Discord if you have any questions, feedback or bugs! *Llama#7824*
+Contact me on Discord if you have any questions, feedback or bugs! `Llama#7824`

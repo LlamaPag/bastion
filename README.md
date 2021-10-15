@@ -1,6 +1,6 @@
 # Llama's Bastion Practice
 
-For those who want the [download](/)  
+For those who want the [download](https://github.com/LlamaPag/bastion/blob/main/Llama's%20Bastion%20Practice%20v2.6.1.zip)  
 ### *Heyo!*  
 
 I have been working on this map for several months now after foolishly deciding that I wanted to create an accurate bastion practice map.  

@@ -1,11 +1,6 @@
 # Llama's Bastion Practice
 
-### *Heyo!*  
-
-I have been working on this map for several months now after foolishly deciding that I wanted to create an accurate bastion practice map.  
-The following features have been implemented in the map which make it near identical to how the game generates bastions.
-
-[Download](https://github.com/LlamaPag/bastion/releases/download/untagged-944fb39d8a2d521e3b35/Llamas_Bastion_Practice_v2.6.1.zip)
+[Download](https://github.com/LlamaPag/bastion/releases/download/2.6.1/LBP_2.6.1.zip)
 
 ## Features
 - Random Terrain

@@ -1,6 +1,8 @@
+<img align="right" src="https://raw.githubusercontent.com/LlamaPag/bastion/main/logo.png?sanitize=true" alt="logo" width="76">
+
 # Llama's Bastion Practice
 
-A bastion practice map for Minecraft version 1.16.1
+> Bastion Practice for Minecraft 1.16.1 speedruns
 
 ## Features
 - Natural Terrain

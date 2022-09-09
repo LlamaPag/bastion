@@ -6,7 +6,7 @@
 
 ## Introduction
 
-Minecraft [bastions](https://minecraft.fandom.com/wiki/Bastion_Remnant) are requisite for modern-day Minecraft 1.16.1 speedruns but are difficult to effectively practice due to their sheer number of potential variations and randomness the game enforces.
+Minecraft [bastions](https://minecraft.fandom.com/wiki/Bastion_Remnant) are requisite for modern-day Minecraft [1.16.1](https://minecraft.fandom.com/wiki/Java_Edition_1.16.1) speedruns but are difficult to effectively practice due to their sheer number of potential variations and randomness the game enforces.
 
 `LBP` is a map that attempts to give users full control over how they practice bastions. It contains a host of features and tools that let *you* decide how the bastions you practice will generate. With `LBP` you can effectively help to prepare yourself for real runs and gain the most from practice time.
 

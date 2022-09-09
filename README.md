@@ -14,17 +14,6 @@ Minecraft [bastions](https://minecraft.fandom.com/wiki/Bastion_Remnant) are requ
 - **Old map overview** [https://youtu.be/jlA-jW7VGqw](https://youtu.be/jlA-jW7VGqw)  
 - **Loadout overview** [https://youtu.be/uTn9LwB5WAE](https://youtu.be/uTn9LwB5WAE) 
 
-### Features
-- Natural Terrain
-- Block Processors
-- Random Mobs
-- Random Bastion Rotations  
-- Toggle Terrain
-- Toggle Hoglins
-- Toggle Natural Mobs
-- Selectable Gold Block Chances
-- Selectable Spawnpoint
-
 ### Installation
 1) Go to [releases](https://github.com/LlamaPag/bastion/releases) and download the [latest version](https://github.com/LlamaPag/bastion/releases/download/2.6.1/LBP_2.6.1.zip)
 2) Open your `.minecraft` directory and go to `/saves/`

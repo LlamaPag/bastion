@@ -1,6 +1,6 @@
 # Llama's Bastion Practice
 
-[Download](https://github.com/LlamaPag/bastion/releases/download/2.6.1/LBP_2.6.1.zip)
+[Download Latest](https://github.com/LlamaPag/bastion/releases/download/2.6.1/LBP_2.6.1.zip)
 
 ## Features
 - Random Terrain

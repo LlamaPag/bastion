@@ -1,4 +1,4 @@
-<img align="right" src="https://raw.githubusercontent.com/LlamaPag/bastion/main/logo.png?sanitize=true" alt="logo" width="64">
+<img align="right" src="logo.png" alt="logo" width="64">
 
 # Llama's Bastion Practice
 

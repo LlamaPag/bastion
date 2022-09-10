@@ -13,7 +13,7 @@ Minecraft [bastions](https://minecraft.fandom.com/wiki/Bastion_Remnant) are requ
 With this map you can effectively help to prepare yourself for real runs and gain the most from practice time.
 
 ### Explanation Videos
-- **Old map overview** [https://youtu.be/jlA-jW7VGqw](https://youtu.be/jlA-jW7VGqw)  
+- **Map overview** [https://youtu.be/jlA-jW7VGqw](https://youtu.be/jlA-jW7VGqw)  
 - **Loadout overview** [https://youtu.be/uTn9LwB5WAE](https://youtu.be/uTn9LwB5WAE) 
 
 ### Installation

@@ -17,7 +17,7 @@ With this map you can effectively help to prepare yourself for real runs and gai
 - **Loadout overview** [https://youtu.be/uTn9LwB5WAE](https://youtu.be/uTn9LwB5WAE) 
 
 ### Installation
-1) Go to [releases](https://github.com/LlamaPag/bastion/releases) and download the [latest version](https://github.com/LlamaPag/bastion/releases/download/2.6.1/LBP_2.6.1.zip)
+1) Go to [releases](https://github.com/LlamaPag/bastion/releases) and download the [latest version](https://github.com/LlamaPag/bastion/releases/latest)
 2) Open your `.minecraft` directory and go to `/saves/`
 3) Place the downloaded `LBP_*.*.*.zip` file in this directory
 4) Right-click this file and click `Extract All...`

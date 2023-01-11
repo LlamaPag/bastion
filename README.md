@@ -11,6 +11,7 @@ Minecraft [bastions](https://minecraft.fandom.com/wiki/Bastion_Remnant) are requ
 `Llama's Bastion Practice` is a map that attempts to give users full control over how they practice bastions. It contains a host of features and tools that let *you* decide how the bastions you practice will generate.
 
 With this map you can effectively help to prepare yourself for real runs and gain the most from practice time.
+### THIS MAP DOES NOT WORK IN 1.16.2+
 
 ### Explanation Videos
 - **Map overview** [https://youtu.be/jlA-jW7VGqw](https://youtu.be/jlA-jW7VGqw)  

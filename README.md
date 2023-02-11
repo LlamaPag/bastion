@@ -22,6 +22,14 @@ With this map you can effectively help to prepare yourself for real runs and gai
 2) Open your `.minecraft` directory and go to `/saves/`
 3) Place the downloaded `LBP_*.*.*.zip` file in this directory
 4) Right-click this file and click `Extract All...`
+5) Check that your folder structure matches the following:
+```
+saves
+└── LBP_3.13.3
+    ├── datapacks
+    ├── icon.png
+    └── level.dat
+```
 
 ---
 Discord - `Llama#7824`

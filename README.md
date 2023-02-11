@@ -25,7 +25,7 @@ With this map you can effectively help to prepare yourself for real runs and gai
 5) Check that your folder structure matches the following:
 ```
 saves
-└── LBP_3.13.3
+└── LBP_*.*.*
     ├── datapacks
     ├── icon.png
     └── level.dat

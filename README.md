@@ -29,7 +29,3 @@ saves
     ├── datapacks
     ├── icon.png
     └── level.dat
-```
-
----
-Discord - `Llama#7824`
